@@ -1,6 +1,6 @@
 
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning GMD
+- 🌱 I’m currently learning GML(game maker language)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Brazilian and I'm learning English
 
